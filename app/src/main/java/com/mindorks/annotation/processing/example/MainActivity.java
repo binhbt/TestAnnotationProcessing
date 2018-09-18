@@ -6,11 +6,11 @@ import android.view.View;
 import android.widget.TextView;
 
 
-import com.mindorks.binder.FontBinding;
-import com.mindorks.binder.FontManager;
-import com.mindorks.lib.annotations.AutoScale;
+import com.leo.font.lib.binder.FontBinding;
+import com.vn.fa.font.FontManager;
+import com.leo.font.lib.annotations.AutoScale;
 import com.mindorks.lib.annotations.BindView;
-import com.mindorks.lib.annotations.IgnoreScale;
+import com.leo.font.lib.annotations.IgnoreScale;
 
 import mindorks.com.annotationprocessingexample.R;
 
